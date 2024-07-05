@@ -31,7 +31,7 @@ a<h2 align="center">Hi 👋, I'm Oyeyemi Adekola</h2>
 - 💬 Ask me about Frontend engineer, web performance and optimization
 - 📫 How to reach me adekolayemi25@gmail.com
 
-- ⚡ Fun fact, I love good music, gym and travels 
+- ⚡ Fun fact, I love sleeping and playing games
 - Check me out on LinkedIn - [LinkedIn](https://www.linkedin.com/in/adekola-oyeyemi-53105b19b/)
 
 
