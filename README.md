@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 a<h2 align="center">Hi 👋, I'm Oyeyemi Adekola</h2>
 <p align="center"> <img src="#" /> </p>
-<p>Hello 👋, I'm a Website developer and I also like building web applications. I curate web experiences using Wordpress, Mongo, HTML, CSS, Javascript, PHP, SQL, (github workflow) CI/CD Pipelines, web accessiblity and TDD </p>
+<p>Hello 👋, I'm a Website developer and I also like building web applications. I curate web experiences using Laravel, Mongo, HTML, CSS, Javascript, PHP, SQL, (github workflow) CI/CD Pipelines,  Wordpress, web accessiblity and TDD </p>
 
 #### 🛠 &nbsp; Facts about me  ⚡
 
