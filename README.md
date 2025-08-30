@@ -59,7 +59,7 @@ Visit my live portfolio at: **[yemi.wuaze.com](https://yemi.wuaze.com/)**
 
 ## ⚙️ Tech Stack
 
-This portfolio and my projects are built with a broad set of modern, production-ready technologies:
+My projects are built with a broad set of modern, production-ready technologies:
 
 - **Frontend**: Next.js, React, TailwindCSS, TypeScript, Framer Motion  
 - **Backend**: PHP, Laravel, Node.js, Express.js  
@@ -70,36 +70,6 @@ This portfolio and my projects are built with a broad set of modern, production-
 - **Automation & Data**: Web Scraping (BeautifulSoup, Selenium), Pandas for data handling  
 - **Other Tools**: Dompdf (PDF generation), REST & GraphQL APIs  
 - **DevOps & Deployment**: Git/GitHub, Vercel, Netlify, cPanel, Docker (basic)  
-
-## 🛠️ Features
-
-✨ **Responsive Design**: Seamlessly adapts to all screen sizes and devices  
-
-🎨 **Modern UI/UX**: Clean, professional design that showcases technical expertise  
-
-🚀 **Performance Optimized**: Fast loading times with excellent Core Web Vitals  
-
-🎬 **Smooth Animations**: Engaging motion design using Framer Motion  
-
-🤖 **AI-Powered Solutions**: Speech-to-text (Yoruba-English), product search intelligence, and NLP  
-
-🔗 **Blockchain Development**: Smart contracts, secure decentralized apps, and research projects  
-
-📊 **Data & Automation**: Scalable scraping, dataset preparation, and AI model training  
-
-💼 **Comprehensive Sections**:
-- Hero section with dynamic introduction  
-- Skills and technologies showcase  
-- Featured projects with detailed descriptions  
-- Professional experience timeline  
-- Contact information and links  
-
-🔧 **Developer-Friendly**:
-- Clean, maintainable code structure  
-- Easy to customize and extend  
-- Well-documented components  
-
-## 🚀 Getting Started
 
 
 
