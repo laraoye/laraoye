@@ -39,15 +39,7 @@
   <p align="center">A modern, professional portfolio showcasing my skills and projects as a developer. Built with cutting-edge technologies and designed to demonstrate my expertise in web development, artificial intelligence, automation, and technology solutions.</p>
 </div>
 
-## 📋 Table of Contents
-
-1. 🙋‍♂️ [About Me](#about-me)  
-2. ⚙️ [Tech Stack](#tech-stack)  
-3. 🛠️ [Features](#features)  
-4. 🚀 [Getting Started](#getting-started)  
-5. 🌟 [Live Portfolio](#live-portfolio)  
-6. 📁 [Project Structure](#project-structure)  
-7. 📝 [Contact](#contact)  
+  
 
 ## 🙋‍♂️ About Me
 
@@ -84,8 +76,6 @@ Features you'll find:
 - Professional experience overview  
 - Contact form and social links  
 
-## 📁 Project Structure
-
 
 
 ## 📝 Contact
@@ -108,4 +98,4 @@ Ready to connect? Reach out to me:
 
 ---
 
-**Built with ❤️ by Adekola Yemi**
+** ❤️ Adekola Yemi**
