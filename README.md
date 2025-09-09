@@ -1,7 +1,7 @@
 
   
 
-## 🙋‍♂️ About Me
+## 👧 About Me
 
 Hello! I'm **Adekola Yemi**, a passionate **full-stack developer and AI enthusiast** focused on creating innovative web solutions, intelligent systems, and decentralized applications.  
 
